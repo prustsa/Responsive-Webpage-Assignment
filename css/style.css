@@ -1,0 +1,20 @@
+.navcolour {
+    background-color: #3f7080;
+}
+
+.navbar-nav ul li img{
+    height: 30px;
+    width: 26px;
+}
+.copy {
+    position: absolute;
+    right: 0px;
+    padding-top: 8px;
+}
+.copy p {
+    color: white;
+    
+}
+.display-9 {
+    margin-top: 11px;
+}
